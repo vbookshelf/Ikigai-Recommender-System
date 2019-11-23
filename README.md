@@ -1,5 +1,5 @@
 ## Ikigai Recommender System
-A system that matches children's career and life skills questions to people who can to answer them.
+A system that matches children's career and life skills questions to people who can answer them.
 
 <br>
 
