@@ -3,6 +3,12 @@ A system that matches children's career and life skills questions to people who 
 
 <br>
 
+<i>CareerVillage.org is a nonprofit that crowdsources career advice for underserved youth. Founded in 2011 in four classrooms in New York City, the platform has now served career advice from 25,000 volunteer professionals to over 3.5M online learners. The platform uses a Q&A style similar to StackOverflow or Quora to provide students with answers to any question about any career.
+ <br>
+ ~ Kaggle</i>
+
+<br>
+
 This was my entry in the Kaggle CareerVillage competition. The objective was to develop a method to recommend student questions to professionals who are most likely to answer them.
 
 The data and published notebooks are available on Kaggle:
