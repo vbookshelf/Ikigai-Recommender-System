@@ -9,7 +9,7 @@ A system that matches children's career and life skills questions to people who 
 
 <br>
 
-This was my entry in the Kaggle CareerVillage competition. The objective was to develop a method to recommend student questions to professionals who are most likely to answer them.
+This was my entry in the Kaggle CareerVillage competition. The objective was to develop an automated recommender system to match student questions to people who can answer them.
 
 The data and published notebooks are available on Kaggle:
 
